@@ -4,3 +4,4 @@ Pillow
 numpy
 paddlepaddle
 paddleocr
+pytesseract
